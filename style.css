@@ -1,0 +1,16 @@
+#cell1{
+    position: absolute;
+    top:10%;
+    left:10%;
+    z-index: 99;
+}
+#cell2{
+    position: absolute;
+    top:10%;
+    left:35%;
+}
+#cell3{
+    position: absolute;
+    top:10%;
+    left:60%;
+}
